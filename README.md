@@ -2,7 +2,7 @@
  办公自动化（OA）是面向组织的日常运作和管理，员工及管理者使用频率最高的应用系统，极大提高公司的办公效率。
 
 ---
- https://gitee.com/aaluoxiang/GarbageSort
+  
  
 <img src="https://images.gitee.com/uploads/images/2019/0730/130939_1e21447e_1277461.jpeg" width="300"  align=center />
 
